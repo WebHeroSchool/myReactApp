@@ -1,0 +1,22 @@
+{
+  "name": "myreactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "echo hello",
+    "create": "mkdir build",
+    "delete": "rm -r build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/myReactApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/myReactApp/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/myReactApp#readme"
+}
