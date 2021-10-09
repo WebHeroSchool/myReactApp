@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "say": "echo hello",
+    "say": "echo Hello",
     "create": "mkdir build",
     "delete": "rm -r build"
   },
