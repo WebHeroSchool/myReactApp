@@ -19,7 +19,7 @@ function App() {
           color: 'yellow'
         }}>
           I have {2} apples. My friend has {2+2} apples. {flag && 'Flag is true'}
-          {flag ? <p>We are happy</p> : <p>We are unhappy</p>}
+          {flag ? <p>We are happy!</p> : <p>We are unhappy</p>}
         </p>
         <div>{undefined}</div>
         <div>{null}</div>
